@@ -59,6 +59,7 @@ packages:
     - "fastfetch"
     - "tmux"
     - "bat"
+    - "eza"
   rpm-ostree:
     - "rustup"
     - "zsh"

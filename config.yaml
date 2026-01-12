@@ -63,3 +63,5 @@ packages:
   rpm-ostree:
     - "rustup"
     - "zsh"
+    - "niri"
+    - "waybar"

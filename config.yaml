@@ -56,3 +56,6 @@ packages:
     - "stikypiston/formulae/decree"
     - "superfile"
     - "starship"
+    - "fastfetch"
+    - "tmux"
+    - "bat"

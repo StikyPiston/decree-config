@@ -1,0 +1,6 @@
+name: flatpak
+
+commands:
+  install:     "flatpak install flathub {{package}}"
+  remove:      "flatpak remove {{package}}"
+  upgrade_all: "flatpak update"

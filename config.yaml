@@ -60,8 +60,8 @@ packages:
     - "tmux"
     - "bat"
     - "eza"
-  rpm-ostree:
     - "rustup"
+  rpm-ostree:
     - "zsh"
     - "niri"
     - "waybar"

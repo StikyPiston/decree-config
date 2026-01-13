@@ -1,0 +1,6 @@
+name: aur
+
+commands:
+  install:     "yay -S --noconfirm {{package}}"
+  remove:      "yay -Rns --noconfirm {{package}}"
+  upgrade_all: "yay -Syu --noconfirm"

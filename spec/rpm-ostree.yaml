@@ -1,6 +1,0 @@
-name: rpm-ostree
-
-commands:
-  install:     "rpm-ostree install -Ay {{package}}"
-  remove:      "rpm-ostree remove {{package}}"
-  upgrade_all: "rpm-ostree upgrade"

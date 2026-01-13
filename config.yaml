@@ -101,3 +101,7 @@ packages:
     - "zsh"
     - "niri"
     - "waybar"
+    - "vicinae"
+    - "swww"
+    - "ghostty"
+    - "fuzzel"

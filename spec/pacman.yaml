@@ -1,6 +1,6 @@
 name: pacman
 
 commands:
-  install:     "pacman -S --noconfirm {{package}}"
-  remove:      "pacman -Rns --noconfirm {{package}}"
-  upgrade_all: "pacman -Syu --noconfirm"
+  install:     "sudo pacman -S --noconfirm {{package}}"
+  remove:      "sudo pacman -Rns --noconfirm {{package}}"
+  upgrade_all: "sudo pacman -Syu --noconfirm"

@@ -1,0 +1,6 @@
+name: rpm-ostree
+
+commands:
+  install:     "sudo wget --directory-prefix /etc/yum.repos.d {{package}}"
+  remove:      "echo 'Remove {{package}} from /etc/yum.repos.d/'"
+  upgrade_all: "echo 'no'"

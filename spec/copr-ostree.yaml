@@ -1,4 +1,4 @@
-name: rpm-ostree
+name: copr-ostree
 
 commands:
   install:     "sudo wget --directory-prefix /etc/yum.repos.d {{package}}"

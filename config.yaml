@@ -2,6 +2,8 @@ settings:
   autoUpgrade: true
 
 packages:
+  copr-ostree:
+    
   brew:
     - "soft-serve"
     - "gum"

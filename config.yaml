@@ -232,7 +232,6 @@ packages:
     - "squeezelite"
     - "gnome-games-meta"
     - "lutgen-bin"
-    - "communique"
     - "craftos-pc"
     - "songfetch"
     - "alertify"

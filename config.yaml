@@ -218,6 +218,7 @@ packages:
     - "power-profiles-daemon"
     - "docker"
     - "docker-compose"
+    - "zellij"
   aur:
     - "vicinae-bin"
     - "blockbench-bin"

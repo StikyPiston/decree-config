@@ -60,6 +60,7 @@ packages:
     - "bat"
     - "eza"
     - "rustup"
+    - "stikypiston/formulae/termfarm"
   flatpak:
     - "org.prismlauncher.PrismLauncher"
     - "md.obsidian.Obsidian"

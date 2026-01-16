@@ -242,3 +242,4 @@ packages:
     - "indicator-stickynotes"
     - "catppuccin-cursors-mocha"
     - "papirus-folders-catppuccin-git"
+    - "neovide-git"

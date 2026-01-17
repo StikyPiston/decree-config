@@ -218,6 +218,7 @@ packages:
     - "docker"
     - "docker-compose"
     - "zellij"
+    - "nushell"
   aur:
     - "vicinae-bin"
     - "blockbench-bin"

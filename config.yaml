@@ -219,6 +219,7 @@ packages:
     - "docker-compose"
     - "zellij"
     - "nushell"
+    - "television"
   aur:
     - "vicinae-bin"
     - "blockbench-bin"

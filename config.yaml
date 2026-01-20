@@ -60,6 +60,7 @@ packages:
     - "eza"
     - "rustup"
     - "stikypiston/formulae/termfarm"
+    - "television"
   flatpak:
     - "org.prismlauncher.PrismLauncher"
     - "md.obsidian.Obsidian"
@@ -219,7 +220,6 @@ packages:
     - "docker-compose"
     - "zellij"
     - "nushell"
-    - "television"
   aur:
     - "vicinae-bin"
     - "blockbench-bin"

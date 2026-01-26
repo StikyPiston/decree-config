@@ -27,7 +27,7 @@ packages:
     - "tlrc"
     - "delta"
     - "lazygit"
-    - "stan-breaks/ytsurf/ytsurf"
+    # - "stan-breaks/ytsurf/ytsurf"
     - "stikypiston/formulae/dotkeeper-tui"
     - "luarocks"
     - "npm"

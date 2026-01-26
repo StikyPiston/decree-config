@@ -61,6 +61,7 @@ packages:
     - "rustup"
     - "stikypiston/formulae/termfarm"
     - "television"
+    - "jsonlint"
   flatpak:
     - "org.prismlauncher.PrismLauncher"
     - "md.obsidian.Obsidian"
